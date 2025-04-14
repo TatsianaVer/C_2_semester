@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\teachers\\printall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\printall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\teachers\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\teachers\\overuniavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\overuniavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\teachers\\dept2monthavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\dept2monthavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\teachers\\fill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\fill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\max2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\max2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\arr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\arr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\negprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\negprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\minrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\minrto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\minl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\minl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\makec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\makec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\array\\fill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\fill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\1\\1\\1\\1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Program.cs*",
+              "RelativeToolTip": "1\\Teachers\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:29:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Teacher.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Teacher.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Teacher.cs",
+              "RelativeToolTip": "1\\Teachers\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:55:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Class1.cs",
+              "RelativeDocumentMoniker": "1\\Class1.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Class1.cs*",
+              "RelativeToolTip": "1\\Class1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:22:14.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Array\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Program.cs*",
+              "RelativeToolTip": "1\\Array\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:07:35.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintAll.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\PrintAll.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\PrintAll.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\PrintAll.cs",
+              "RelativeToolTip": "1\\Teachers\\PrintAll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:12:17.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OverUniAvg.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\OverUniAvg.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\OverUniAvg.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\OverUniAvg.cs",
+              "RelativeToolTip": "1\\Teachers\\OverUniAvg.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:13:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dept2MonthAvg.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Dept2MonthAvg.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Dept2MonthAvg.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Dept2MonthAvg.cs",
+              "RelativeToolTip": "1\\Teachers\\Dept2MonthAvg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:12:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fill.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Fill.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Fill.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Teachers\\Fill.cs",
+              "RelativeToolTip": "1\\Teachers\\Fill.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:11:17.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NegProd.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\NegProd.cs",
+              "RelativeDocumentMoniker": "1\\Array\\NegProd.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\NegProd.cs",
+              "RelativeToolTip": "1\\Array\\NegProd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:05:59.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Max2.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Max2.cs",
+              "RelativeDocumentMoniker": "1\\Array\\Max2.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Max2.cs",
+              "RelativeToolTip": "1\\Array\\Max2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:06:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Arr.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Arr.cs",
+              "RelativeDocumentMoniker": "1\\Array\\Arr.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Arr.cs",
+              "RelativeToolTip": "1\\Array\\Arr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:00:40.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MinRTo.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\MinRTo.cs",
+              "RelativeDocumentMoniker": "1\\Array\\MinRTo.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\MinRTo.cs",
+              "RelativeToolTip": "1\\Array\\MinRTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:04:57.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MinL.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\MinL.cs",
+              "RelativeDocumentMoniker": "1\\Array\\MinL.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\MinL.cs",
+              "RelativeToolTip": "1\\Array\\MinL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:04:13.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MakeC.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\MakeC.cs",
+              "RelativeDocumentMoniker": "1\\Array\\MakeC.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\MakeC.cs",
+              "RelativeToolTip": "1\\Array\\MakeC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:03:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Print.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Print.cs",
+              "RelativeDocumentMoniker": "1\\Array\\Print.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Print.cs",
+              "RelativeToolTip": "1\\Array\\Print.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:02:09.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Fill.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Fill.cs",
+              "RelativeDocumentMoniker": "1\\Array\\Fill.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\Array\\Fill.cs",
+              "RelativeToolTip": "1\\Array\\Fill.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:01:28.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "1",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\1.csproj",
+              "RelativeDocumentMoniker": "1\\1.csproj",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\1\\1\\1\\1.csproj",
+              "RelativeToolTip": "1\\1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T01:46:07.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

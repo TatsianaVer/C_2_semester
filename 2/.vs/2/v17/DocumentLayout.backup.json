@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\2\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\2\\2\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|solutionrelative:2\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\2\\2\\chatinfogetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|solutionrelative:2\\chatinfogetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\2\\2\\bannedwordadder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|solutionrelative:2\\bannedwordadder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\2\\2\\userremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|solutionrelative:2\\userremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\2\\2\\useradder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|solutionrelative:2\\useradder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\c#\\2 semester\\2\\2\\chatdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D788E65B-DCB3-4B8B-A0AC-0A3F18BEF094}|2\\2.csproj|solutionrelative:2\\chatdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\Program.cs*",
+              "RelativeToolTip": "2\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwv0MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:15:02.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\MessageSender.cs",
+              "RelativeDocumentMoniker": "2\\MessageSender.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\MessageSender.cs",
+              "RelativeToolTip": "2\\MessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:12:57.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatInfoGetter.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\ChatInfoGetter.cs",
+              "RelativeDocumentMoniker": "2\\ChatInfoGetter.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\ChatInfoGetter.cs",
+              "RelativeToolTip": "2\\ChatInfoGetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:14:18.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BannedWordAdder.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\BannedWordAdder.cs",
+              "RelativeDocumentMoniker": "2\\BannedWordAdder.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\BannedWordAdder.cs",
+              "RelativeToolTip": "2\\BannedWordAdder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:13:49.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRemover.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\UserRemover.cs",
+              "RelativeDocumentMoniker": "2\\UserRemover.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\UserRemover.cs",
+              "RelativeToolTip": "2\\UserRemover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:13:22.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAdder.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\UserAdder.cs",
+              "RelativeDocumentMoniker": "2\\UserAdder.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\UserAdder.cs",
+              "RelativeToolTip": "2\\UserAdder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:12:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatData.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\ChatData.cs",
+              "RelativeDocumentMoniker": "2\\ChatData.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\C#\\2 semester\\2\\2\\ChatData.cs",
+              "RelativeToolTip": "2\\ChatData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:11:40.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

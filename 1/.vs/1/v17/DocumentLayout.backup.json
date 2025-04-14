@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\teachers\\printall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\printall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\teachers\\overuniavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\overuniavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\teachers\\dept2monthavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\dept2monthavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\teachers\\fillteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\teachers\\fillteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\array\\negativeprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\negativeprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\array\\minrightto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\minrightto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\array\\minleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\minleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\array\\createarrayc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\createarrayc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|c:\\users\\tatan\\documents\\github\\c--2-semester\\1\\1\\array\\fillarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E1A9E2-B5F6-4B32-A4B3-29B9B59311AA}|1\\1.csproj|solutionrelative:1\\array\\fillarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\Program.cs",
+              "RelativeToolTip": "1\\Teachers\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:03:23.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OverUniAvg.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\OverUniAvg.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\OverUniAvg.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\OverUniAvg.cs",
+              "RelativeToolTip": "1\\Teachers\\OverUniAvg.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:01:40.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FillTeachers.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\FillTeachers.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\FillTeachers.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\FillTeachers.cs",
+              "RelativeToolTip": "1\\Teachers\\FillTeachers.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:59:14.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dept2MonthAvg.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\Dept2MonthAvg.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Dept2MonthAvg.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\Dept2MonthAvg.cs",
+              "RelativeToolTip": "1\\Teachers\\Dept2MonthAvg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:50:50.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Array\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\Program.cs",
+              "RelativeToolTip": "1\\Array\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:48:50.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NegativeProd.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\NegativeProd.cs",
+              "RelativeDocumentMoniker": "1\\Array\\NegativeProd.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\NegativeProd.cs",
+              "RelativeToolTip": "1\\Array\\NegativeProd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:45:16.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\Array.cs",
+              "RelativeDocumentMoniker": "1\\Array\\Array.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\Array.cs",
+              "RelativeToolTip": "1\\Array\\Array.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:41:20.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintAll.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\PrintAll.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\PrintAll.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Teachers\\PrintAll.cs",
+              "RelativeToolTip": "1\\Teachers\\PrintAll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:02:58.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MinRightTo.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\MinRightTo.cs",
+              "RelativeDocumentMoniker": "1\\Array\\MinRightTo.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\MinRightTo.cs",
+              "RelativeToolTip": "1\\Array\\MinRightTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:44:59.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MinLeft.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\MinLeft.cs",
+              "RelativeDocumentMoniker": "1\\Array\\MinLeft.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\MinLeft.cs",
+              "RelativeToolTip": "1\\Array\\MinLeft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:44:43.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateArrayC.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\CreateArrayC.cs",
+              "RelativeDocumentMoniker": "1\\Array\\CreateArrayC.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\CreateArrayC.cs",
+              "RelativeToolTip": "1\\Array\\CreateArrayC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:43:20.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FillArray.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\FillArray.cs",
+              "RelativeDocumentMoniker": "1\\Array\\FillArray.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C--2-semester\\1\\1\\Array\\FillArray.cs",
+              "RelativeToolTip": "1\\Array\\FillArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:41:35.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
